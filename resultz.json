@@ -1,0 +1,80 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 5,
+  "numPassedTests": 4,
+  "numFailedTests": 1,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1703257295438,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butonda Gizle yazısı ile başlıyor.",
+          "status": "passed",
+          "title": "Butonda Gizle yazısı ile başlıyor.",
+          "duration": 12,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "passed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 7,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "passed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 3,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Butona tıklanınca buton yazısı Göster oluyor",
+          "status": "passed",
+          "title": "Butona tıklanınca buton yazısı Göster oluyor",
+          "duration": 2,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " animation duration 1sn olarak ayarlanmış",
+          "status": "failed",
+          "title": "animation duration 1sn olarak ayarlanmış",
+          "duration": 17,
+          "failureMessages": [
+            "expected CSSStyleDeclaration{ …(33) } to be 'flex' // Object.is equality"
+          ],
+          "location": {
+            "line": 31,
+            "column": 5
+          }
+        }
+      ],
+      "startTime": 1703257708310,
+      "endTime": 1703257708351,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-an9n6r/src/__tests__/Dondurucu.test.jsx"
+    }
+  ]
+}
